@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiISMediationAdapter"
-  spec.version      = "7.1.11.1.99.0" # Mark
+  spec.version      = "7.1.11.1.99.1" # Mark
   spec.summary      = "NoxmobiISMediationAdapter"
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiISMediationAdapter"
   spec.license      = "MIT"
@@ -25,6 +25,6 @@ Pod::Spec.new do |spec|
   spec.dependency "IronSourceTapjoyAdapter","4.1.18.2"
   spec.dependency "IronSourceUnityAdsAdapter","4.3.14.2"
   spec.dependency "IronSourceVungleAdapter","4.3.14.1"
-  spec.dependency "IronSourceHyprMXAdapter", "4.1.10.2'
+  spec.dependency "IronSourceHyprMXAdapter", "4.1.10.2"
 
 end

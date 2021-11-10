@@ -1,5 +1,4 @@
 #! /bin/bash
-# 这个没有用
 # ===============修改podspec的版本号===========================
 
 PodName="NoxmobiISMediationAdapter"
